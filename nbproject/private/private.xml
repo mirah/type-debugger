@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/swing/model/DebuggerModel.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/swing/model/NodeConverter.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/swing/model/VariableModel.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/swing/model/VariableRenderData.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/prettyprint/MirahSourceGenerator.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/swing/model/FrameModel.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/swing/model/VariableTreeModel.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/swing/DebugMirahc.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/swing/model/VariableRowModel.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/swing/model/NodeModel.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/swing/model/NullProxy.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/swing/model/NodeRowModel.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/swing/model/NodeRenderData.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/swing/model/NodeTreeModel.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/swing/model/TypeModelLookup.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/swing/SwingDebugger.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/src/org/mirah/jvm/mirrors/debug/swing/view/DebuggerFrame.java</file>
+            <file>file:/Users/ribrdb/NetBeansProjects/mirah-gui-debugger-2/test/org/mirah/jvm/mirrors/debug/swing/model/VariableTreeModelTest.java</file>
+        </group>
+    </open-files>
+</project-private>
